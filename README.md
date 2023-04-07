@@ -1,5 +1,5 @@
-### Hi there 👋, Abdelkarim aoulallay
-#### Web development
+# Hi there 👋, Abdelkarim aoulallay
+# Web development
 ![Web development](./banner.png)
 
 I'm Abdelkarim Aoulallay from Morocco, passionate about web development my main focus area is frontend development, and always excited to learn new technologies, languages, and frameworks like React and Tailwind CSS.
