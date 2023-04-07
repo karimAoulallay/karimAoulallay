@@ -1,6 +1,6 @@
 ### Hi there 👋, Abdelkarim aoulallay
 #### Web development
-![Web development](https://pbs.twimg.com/profile_banners/1571077817680502787/1680888635/1080x360)
+![Web development](./banner.png)
 
 I'm Abdelkarim Aoulallay from Morocco, passionate about web development my main focus area is frontend development, and always excited to learn new technologies, languages, and frameworks like React and Tailwind CSS.
 
